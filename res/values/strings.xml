@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Angrelish</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="Input">
+        <item >How are you?</item>
+        <item >Where are you?</item>
+        <item >had your lunch?</item>
+        <item >show me the route to goa</item>
+        <item >What is your name?</item>
+        <item >How old are you?</item>
+        <item >Where do you live?</item>
+        <item >Thank you</item>
+        <item >Welcome</item>
+        <item >Where is the medical shop?</item>
+         <item >Here is my passport</item>
+          <item >My documents</item>
+           <item >i am staying for a week</item>
+            <item >i am visiting relatives</item>
+             <item >do i have to pay duty?</item>
+     
+        
+    </string-array>
+    <string-array name="Output">
+        <item >Aap Kaise Ho?</item>
+        <item >Aap kahan ho?</item>
+        <item >aap ne dhopar ka bhojan kiya tha</item>
+        <item >mujhe goa jane ka marg dekhaye</item>
+        <item >Aap ka naam kya hai?</item>
+        <item >Aap kitne saal ke ho?</item>
+        <item >Aap rehte kahan ho?</item>
+        <item >Sukriyaa</item>
+        <item >Dhanyavad</item>
+        <item >Yahan Daavai ki dukan kidher hai?</item>
+        <item >yeh mera passport</item>
+        <item >mere kagaz patra</item>
+        <item >me yahan ek saptah rahunga</item>
+         <item >mein apne ristedaroon se milne aya hun</item>
+          <item >Kya mujhe duty chukana padega</item>
+    </string-array>
+
+</resources>
